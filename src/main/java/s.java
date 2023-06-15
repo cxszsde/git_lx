@@ -3,5 +3,6 @@ public class s {
         System.out.println("sdhfiuahfaiuewf");
         System.out.println("你好");
         System.out.println("你好a");
+        System.out.println("4");
     }
 }
